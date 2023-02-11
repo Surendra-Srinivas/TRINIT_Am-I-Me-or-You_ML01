@@ -1,2 +1,1 @@
-
-TRI NIT Hackathon
+file.ipynb = Architecture of GAN.
